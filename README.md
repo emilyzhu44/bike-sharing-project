@@ -214,8 +214,21 @@ Findings:
 - Registered riders remain relatively stable year-round
 
 <div align="center">
-
-![Monthly Ridership Trends](INSERT_IMAGE_LINK)
+  
+| Month | Avg Daily Casual Riders | Avg Daily Registered Riders |
+|------|--------------------------|------------------------------|
+| January | 194.23 | 1982.11 |
+| February | 262.51 | 2392.79 |
+| March | 716.84 | 2975.42 |
+| April | 1013.37 | 3471.53 |
+| May | 1214.27 | 4135.50 |
+| June | 1231.77 | 4540.60 |
+| July | 1260.60 | 4303.08 |
+| August | 1161.92 | 4502.50 |
+| September | 1172.05 | 4594.47 |
+| October | 963.87 | 4235.35 |
+| November | 610.05 | 3637.13 |
+| December | 349.89 | 3053.92 |
 
 </div>
 
