@@ -152,7 +152,7 @@ However, analysis revealed **missing hourly rows on some days**, indicating occa
 - Lighter cells reveal **missing hourly observations**
 - February and 30-day months naturally appear lighter due to fewer days
 
-This visualization helps researchers quickly identify **structural gaps in the dataset.**
+This visualization helps users quickly identify **structural gaps in the dataset.**
 
 ---
 
@@ -278,7 +278,7 @@ Two distinct user groups emerge:
 
 ### Data Product Recommendations
 
-- Document **known hourly data gaps** for researchers
+- Document **known hourly data gaps** for users
 - Include **data quality notes** when publishing the dataset
 - Provide both **hourly and daily aggregated datasets** to prevent granularity confusion
 
