@@ -142,7 +142,7 @@ However, analysis revealed **missing hourly rows on some days**, indicating occa
 
 <div align="center">
 
-![Hourly Data Density Heatmap](INSERT_IMAGE_LINK)
+![Hourly Data Density Heatmap](https://github.com/emilyzhu44/bike-sharing-project/blob/main/hourly%20record%20density.png)
 
 </div>
 
@@ -198,7 +198,7 @@ Casual ridership ranges from:
 
 <div align="center">
 
-![Daily Casual vs Registered Ridership](INSERT_IMAGE_LINK)
+![Daily Casual vs Registered Ridership](https://github.com/emilyzhu44/bike-sharing-project/blob/main/Daily%20Casual%20vs%20Registered%20Ridership.png)
 
 </div>
 
@@ -244,7 +244,13 @@ Additional analysis examined:
 
 <div align="center">
 
-![Temperature vs Ridership Heatmap](INSERT_IMAGE_LINK)
+![Temperature vs Ridership Heatmap](https://github.com/emilyzhu44/bike-sharing-project/blob/main/Temperature%20vs%20Ridership%20Heatmap.png)
+
+</div>
+
+<div align="center">
+
+![Seasonal analysis](https://github.com/emilyzhu44/bike-sharing-project/blob/main/Seasonal%20Analysis.png)
 
 </div>
 
